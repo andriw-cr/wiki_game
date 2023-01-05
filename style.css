@@ -117,7 +117,7 @@ body {
 }
 
 .box_game:hover {
-background-color: linear-gradient(150deg, rgba(255,0,0,1) 0%, rgba(117,8,95,1) 72%, rgba(0,15,176,1) 100%);
+    background-color: #8935dc;
     transition: 800ms;
 }
 
